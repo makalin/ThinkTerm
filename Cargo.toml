@@ -1,0 +1,15 @@
+[package]
+name = "thinkterm"
+version = "0.1.0"
+edition = "2021"
+
+description = "A Rust-based terminal emulator with AI integration."
+authors = ["Mehmet T. AKALIN <makalin@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/makalin/ThinkTerm"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.11", features = ["json"] }
+serde_json = "1.0"
+rustyline = "10.0"
