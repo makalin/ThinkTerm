@@ -1,5 +1,7 @@
 # ThinkTerm - The Terminal That Thinks With You
 
+![TT Logo](tt_logo.png)
+
 ThinkTerm is a smart and customizable terminal emulator built in Rust, combining standard shell capabilities with AI-powered interactions. It allows users to execute shell commands, interact with AI, and maintain history with tab completion.
 
 ## Features
