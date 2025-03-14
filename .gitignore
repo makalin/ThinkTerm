@@ -1,0 +1,7 @@
+target/
+Cargo.lock
+.idea/
+.vscode/
+*.rs.bk
+*.swp
+.DS_Store
